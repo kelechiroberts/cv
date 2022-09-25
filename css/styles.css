@@ -1,0 +1,35 @@
+h1 {
+  font-family: Georgia, serif;
+  font-size: 40px;
+  color: #1C6758;
+}
+
+body {
+  font-family: Times new roman, sans-serif;
+  font-size: 16px;
+  background-color: #fffff;
+  color: grey;
+}
+
+h3 {
+  font-family: Georgia, serif;
+  font-size: 25px;
+  color: #3D8361;
+}
+
+th {
+  font-family: Georgia, serif;
+  font-size: 25px;
+  color: #3D8361;
+
+}
+hr{
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 10px;
+  width: 6%;
+
+}
+img {
+  height: 450px;
+}
